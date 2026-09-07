@@ -1,0 +1,3 @@
+# Preserve directory-relative paths used by POS and Management.
+/pos /pos/ 301
+/management /management/ 301
